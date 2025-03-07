@@ -3,7 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndreMickael-Dev/AndreMickael-Dev/main/text.svg" alt="Colorful Developer Text">
+  <strong>
+    <span style="color:#ff5733;">Hi 👋, I'm Kael,</span> 
+    a <span style="color:#33c3ff;">passionate developer</span> 
+    constantly pushing beyond my <span style="color:#ffc300;">limits</span> 
+    to explore <span style="color:#28a745;">new possibilities</span>. 
+    With a strong drive for <span style="color:#ff33cc;">innovation</span> 
+    and <span style="color:#8a2be2;">learning</span>.
+  </strong>
 </p>
 
 <p align="center">
