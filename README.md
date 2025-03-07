@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/AndreMickael-Dev/AndreMickael-Dev/main/photo.gif" alt="Tech Network GIF">
 </p>
 
-<h1 align="center" style="color:#00bfff;">Hi 👋, I'm <span style="color:#ff5733;">Kael</span>, a developer always pushing beyond my limits to explore new possibilities.</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AndreMickael-Dev/AndreMickael-Dev/main/text.svg" alt="Colorful Developer Text">
+</p>
 
 <p align="center">
   <strong><span>A passionate frontend developer</span></strong> 
