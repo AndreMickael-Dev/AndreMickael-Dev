@@ -1,4 +1,4 @@
-<svg width="600" height="60" xmlns="http://www.w3.org/2000/svg">
+<svg width="700" height="80" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#ff5733; stop-opacity:1" />
@@ -6,11 +6,10 @@
       <stop offset="100%" style="stop-color:#ffc300; stop-opacity:1" />
     </linearGradient>
   </defs>
-  <text x="50%" y="50%" font-size="24" font-weight="bold" text-anchor="middle" fill="url(#textGradient)">
+  <text x="50%" y="40%" font-size="26" font-weight="bold" text-anchor="middle" fill="url(#textGradient)">
     Hey there! 👋 I'm Kael, a Front End developer
   </text>
-  <text x="50%" y="80%" font-size="24" font-weight="bold" text-anchor="middle" fill="url(#textGradient)">
+  <text x="50%" y="75%" font-size="26" font-weight="bold" text-anchor="middle" fill="url(#textGradient)">
     always pushing beyond my limits to explore new possibilities.
   </text>
 </svg>
-
