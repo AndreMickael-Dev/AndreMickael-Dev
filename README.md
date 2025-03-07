@@ -2,68 +2,56 @@
   <img src="https://raw.githubusercontent.com/AndreMickael-Dev/AndreMickael-Dev/main/photo.gif" alt="Tech Network GIF">
 </p>
 
-<p align="center">
-  <strong>
-    <span style="color:#ff5733;">Hi 👋, I'm Kael,</span> 
-    a <span style="color:#33c3ff;">passionate developer</span> 
-    constantly pushing beyond my <span style="color:#ffc300;">limits</span> 
-    to explore <span style="color:#28a745;">new possibilities</span>. 
-    With a strong drive for <span style="color:#ff33cc;">innovation</span> 
-    and <span style="color:#8a2be2;">learning</span>.
-  </strong>
+<h2 align="center" style="color:#ff5733;">Hi 👋, I'm AndreeDev</h2>
+<p align="center" style="font-size: 18px;">
+  A <span style="color:#33c3ff;">passionate developer</span> constantly pushing beyond my <span style="color:#ffc300;">limits</span>
+  to explore <span style="color:#28a745;">new possibilities</span>. Driven by <span style="color:#ff33cc;">innovation</span> and <span style="color:#8a2be2;">continuous learning</span>.
 </p>
 
-<p align="center">
-  <strong><span>A passionate frontend developer</span></strong> 
-  eager to <span">explore and innovate</span> in the 
-  <span>ever-evolving world of technology</span>, 
-  constantly <span>learning</span> and 
-  <span>enhancing</span> my programming skills.
+<p align="center" style="font-size: 18px;">
+  <strong>A frontend developer</strong> eager to <strong>explore and innovate</strong> in the evolving tech world,
+  constantly <strong>learning</strong> and <strong>enhancing</strong> my programming skills.
 </p>
 
-<h2 style="color:#ff6600;">🚀 Languages and Tools I Use</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" />
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="42" height="42" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=andremickael-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
----
-
-<h2 style="color:#ff1493;">⚡️ Where to Find Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/andre-mickael-que-6b2572329/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a>
-  <a href="https://www.facebook.com/andreque20" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877f2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook">
-  </a>
-</p>
-
----
-
-<h2 align="center" style="color:#00cc99;">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreeDev&show_icons=true&locale=en&layout=compact" alt="AndreeDev" />
-</p>
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AndreeDev" alt="AndreeDev" />
+    <img src="https://github-profile-trophy.vercel.app/?username=andremickael-dev" alt="GitHub Profile Trophies">
   </a>
+</p>
+
+### 🚀 About Me
+- 🌱 I’m currently learning **Front-End Development**
+- ⚡ Fun fact: **I'm not pursuing a programming career**
+
+### 📬 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/andre-mickael-que-6b2572329/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/andreque20/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+</p>
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+</p>
+
+### 📊 GitHub Stats:
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andremickael-dev&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
