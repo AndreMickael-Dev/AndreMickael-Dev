@@ -5,7 +5,7 @@
 <h1 align="center" style="color:#00bfff;">Hi 👋, I'm <span style="color:#ff5733;">Kael</span>, a developer always pushing beyond my limits to explore new possibilities.</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndreMickael-Dev/AndreMickael-Dev/main/colorful-text.svg" alt="Colorful Text">
+  <img src="https://raw.githubusercontent.com/AndreMickael-Dev/AndreMickael-Dev/main/text.svg" alt="Colorful Text">
 </p>
 
 <h2 style="color:#ff6600;">🚀 Languages and Tools I Use</h2>
