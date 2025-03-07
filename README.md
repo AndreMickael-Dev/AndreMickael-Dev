@@ -2,24 +2,26 @@
   <img src="https://raw.githubusercontent.com/AndreMickael-Dev/AndreMickael-Dev/main/photo.gif" alt="Tech Network GIF">
 </p>
 
-<h2 align="center" style="color:#ff5733;">Hi 👋, I'm AndreeDev</h2>
-<p align="center" style="font-size: 18px;">
-  A <span style="color:#33c3ff;">passionate developer</span> constantly pushing beyond my <span style="color:#ffc300;">limits</span>
-  to explore <span style="color:#28a745;">new possibilities</span>. Driven by <span style="color:#ff33cc;">innovation</span> and <span style="color:#8a2be2;">continuous learning</span>.
+<h2 align="center" style="color:#ff5733; font-size: 28px; font-weight: bold;">Hi 👋, I'm AndreeDev</h2>
+<p align="center" style="font-size: 18px; background: linear-gradient(90deg, #33c3ff, #ff33cc, #ffc300); -webkit-background-clip: text; color: transparent; font-weight: bold;">
+  Passionate about technology, I constantly push my limits to explore new possibilities,
+  fueled by creativity and a deep love for continuous learning.
 </p>
 
-<p align="center" style="font-size: 18px;">
-  <strong>A frontend developer</strong> eager to <strong>explore and innovate</strong> in the evolving tech world,
-  constantly <strong>learning</strong> and <strong>enhancing</strong> my programming skills.
+<p align="center" style="font-size: 16px; font-weight: 500; color: #28a745;">
+  A <strong>frontend developer</strong> with a passion for exploring and innovating in the Modern tech world.
+  Constantly expanding my knowledge and enhancing my programming skills.
 </p>
 
-<p align="left">
+<hr style="border: 1px solid #ff5733; width: 80%;">
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=andremickael-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=andremickael-dev" alt="GitHub Profile Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=andremickael-dev&theme=onedark" alt="GitHub Profile Trophies">
   </a>
 </p>
 
@@ -28,30 +30,46 @@
 - ⚡ Fun fact: **I'm not pursuing a programming career**
 
 ### 📬 Connect with me:
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/andre-mickael-que-6b2572329/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/andreque20/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
 ### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+
+#### 🎯 Programming Languages:
+<p align="center" style="background:#222; padding: 10px; border-radius: 10px;">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,php,javascript" alt="Programming Languages">
+</p>
+
+#### 🎨 Frontend Development:
+<p align="center" style="background:#222; padding: 10px; border-radius: 10px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,tailwind,sass" alt="Frontend Tools">
+</p>
+
+#### 🏗️ Backend Development:
+<p align="center" style="background:#222; padding: 10px; border-radius: 10px;">
+  <img src="https://skillicons.dev/icons?i=django,flask,laravel,nodejs" alt="Backend Tools">
+</p>
+
+#### 💾 Database & Other Tools:
+<p align="center" style="background:#222; padding: 10px; border-radius: 10px;">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,figma,photoshop" alt="Database & Other Tools">
 </p>
 
 ### 📊 GitHub Stats:
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andremickael-dev&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andremickael-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andremickael-dev&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremickael-dev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
