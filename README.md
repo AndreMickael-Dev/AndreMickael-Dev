@@ -5,11 +5,7 @@
 <h1 align="center" style="color:#00bfff;">Hi 👋, I'm <span style="color:#ff5733;">Kael</span>, a developer always pushing beyond my limits to explore new possibilities.</h1>
 
 <p align="center">
-  <strong><span style="color:#ff5733;">A passionate frontend developer</span></strong> 
-  eager to <span style="color:#33c3ff;">explore and innovate</span> in the 
-  <span style="color:#ffc300;">ever-evolving world of technology</span>, 
-  constantly <span style="color:#28a745;">learning</span> and 
-  <span style="color:#ff33cc;">enhancing</span> my programming skills.
+  <img src="https://raw.githubusercontent.com/AndreMickael-Dev/AndreMickael-Dev/main/colorful-text.svg" alt="Colorful Text">
 </p>
 
 <h2 style="color:#ff6600;">🚀 Languages and Tools I Use</h2>
