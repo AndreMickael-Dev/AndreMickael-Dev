@@ -1,9 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AndreMickael-Dev/AndreMickael-Dev/main/photo.gif" alt="Tech Network GIF">
+</p>
+
 <h1>Hi 👋, I'm Kael, a developer always pushing beyond my limits to explore new possibilities.</h1>
 <p>A passionate frontend developer wants to delve into the exciting world of the tech industry.</p>
 <h2>🚀 Languages and Tools I Use</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KaelDev/MyPortfolio/main/photo.gif" alt="Tech Network GIF">
-</p>
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
